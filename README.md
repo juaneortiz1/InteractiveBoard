@@ -27,7 +27,7 @@ The application allows users to draw on a shared board, with changes reflecting 
 
 ### Demo Video
 
-[![Watch the video](https://raw.githubusercontent.com/juaneortiz1/InteractiveBoard/main/src/main/resources/public/img/Desktop%202024.07.01%20-%2013.49.26.01.mp4)
+[![Watch the video](https://raw.githubusercontent.com/juaneortiz1/InteractiveBoard/main/src/main/resources/public/img/img.png)](https://raw.githubusercontent.com/juaneortiz1/InteractiveBoard/main/src/main/resources/public/img/Desktop%202024.07.01%20-%2013.49.26.01.mp4)
 
 ## Technologies Used
 
