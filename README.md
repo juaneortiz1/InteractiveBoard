@@ -13,6 +13,8 @@ This web application is built to provide an interactive board where users can dr
 - Back-end developed in Java with Spring Boot.
 - Deployed on AWS EC2 for robustness and scalability.
 
+### Architecture
+
 ### Functionality
 
 The application allows users to draw on a shared board, with changes reflecting in real-time across connected clients. It emulates real-time functionality using efficient client-server communication.
@@ -25,7 +27,7 @@ The application allows users to draw on a shared board, with changes reflecting 
 
 ### Demo Video
 
-[Desktop 2024.07.01 - 13.49.26.01.mp4](src%2Fmain%2Fresources%2Fpublic%2Fimg%2FDesktop%202024.07.01%20-%2013.49.26.01.mp4)
+[![Watch the video](https://raw.githubusercontent.com/juaneortiz1/InteractiveBoard/main/src/main/resources/public/img/Desktop%202024.07.01%20-%2013.49.26.01.mp4)
 
 ## Technologies Used
 
