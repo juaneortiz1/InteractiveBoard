@@ -14,6 +14,7 @@ This web application is built to provide an interactive board where users can dr
 - Deployed on AWS EC2 for robustness and scalability.
 
 ### Architecture
+![image](https://github.com/juaneortiz1/InteractiveBoard/assets/97971732/779bd5bd-e83d-4a59-984b-4764ee9e5435)
 
 ### Functionality
 
